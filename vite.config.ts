@@ -5,7 +5,7 @@ import path from 'path';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/hyper-store/',
+  base: '/react-ecommerce-case/',
   plugins: [react(), tailwindcss()],
   server: {
     host: true,
